@@ -14,7 +14,7 @@ pipeline {
                           branches: [[name: '*/main']], 
                           doGenerateSubmoduleConfigurations: false,
                           extensions: [], 
-                          userRemoteConfigs: [[url: 'https://github.com/sattiarati-creator/lab55.git']]])
+                          userRemoteConfigs: [[url: 'https://github.com/Deepa1626/lab5.git']]])
             }
         }
 
